@@ -1,6 +1,5 @@
 FROM node:alpine
 
-# Add the following lines
 ENV CI=true
 ENV WDS_SOCKET_PORT=0
 
